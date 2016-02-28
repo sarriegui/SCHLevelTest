@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfUsuario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Usuario Id="1">
+    <Nombre>admin</Nombre>
+    <Password>admin</Password>
+    <Home>userlist.aspx</Home>
+    <Roles>
+      <RolId>1</RolId>
+    </Roles>
+  </Usuario>
+  <Usuario Id="2">
+    <Nombre>usera</Nombre>
+    <Password>usera</Password>
+    <Home>pagA.aspx</Home>
+    <Roles>
+      <RolId>2</RolId>
+    </Roles>
+  </Usuario>
+  <Usuario Id="3">
+    <Nombre>userb</Nombre>
+    <Password>userb</Password>
+    <Home>pagB.aspx</Home>
+    <Roles>
+      <RolId>3</RolId>
+    </Roles>
+  </Usuario>
+  <Usuario Id="4">
+    <Nombre>userc</Nombre>
+    <Password>userc</Password>
+    <Home>pagC.aspx</Home>
+    <Roles>
+      <RolId>4</RolId>
+    </Roles>
+  </Usuario>
+</ArrayOfUsuario>

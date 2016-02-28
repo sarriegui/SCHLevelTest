@@ -1,0 +1,34 @@
+﻿<?xml version="1.0"?>
+<root>
+  <Rol Id="1">
+    <Nombre>admin</Nombre>
+    <Permisos>
+      <Permiso>all</Permiso>
+    </Permisos>
+    <WebPI_Access>3</WebPI_Access>
+  </Rol>
+  <Rol Id="2">
+    <Nombre>rolA</Nombre>
+    <Permisos>
+      <Permiso>userlist</Permiso>
+      <Permiso>pagA</Permiso>
+    </Permisos>
+    <WebPI_Access>1</WebPI_Access>
+  </Rol>
+  <Rol Id="3">
+    <Nombre>rolB</Nombre>
+    <Permisos>
+      <Permiso>userlist</Permiso>
+      <Permiso>pagB</Permiso>
+    </Permisos>
+    <WebPI_Access>1</WebPI_Access>
+  </Rol>
+  <Rol Id="4">
+   <Nombre>rolC</Nombre>
+    <Permisos>
+      <Permiso>userlist</Permiso>
+      <Permiso>pagC</Permiso>
+    </Permisos>
+    <WebPI_Access>1</WebPI_Access>
+  </Rol>
+</root>

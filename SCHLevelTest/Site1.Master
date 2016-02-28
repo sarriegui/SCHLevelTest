@@ -1,0 +1,19 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="SCHLevelTest.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <link rel="stylesheet" href="css/userlist.css"/>
+    <script src="/script/jquery.min.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <p><a href="<%= Session["home"].ToString() %>">Home</a>&nbsp;<a href="userlist.aspx">Lista users</a>&nbsp;<a href="logout.aspx">Cerrar sesión</a></p>
+    <asp:ContentPlaceHolder ID="phContent" runat="server">
+    </asp:ContentPlaceHolder>
+</body>
+</html>

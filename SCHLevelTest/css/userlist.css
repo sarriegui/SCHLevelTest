@@ -1,0 +1,7 @@
+﻿.label{width:100px;display:inline-block;float:left;clear:left}
+.value{width:100px;display:inline-block;float:right;clear:right}
+input, select{float:left;clear:right}
+select{clear:both}
+button{float:left}
+#btnAdd{clear:left}
+#form{display:none;width:200px}

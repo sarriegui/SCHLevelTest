@@ -1,0 +1,12 @@
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\SCHLevelTest\bin\SCHLevelTest.dll.config
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\SCHLevelTest\bin\SCHLevelTest.dll
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\SCHLevelTest\bin\SCHLevelTest.pdb
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\SCHLevelTest\bin\Controladores.dll
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\SCHLevelTest\bin\Entidades.dll
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\SCHLevelTest\bin\Modelo.dll
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\SCHLevelTest\bin\Controladores.pdb
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\SCHLevelTest\bin\Entidades.pdb
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\SCHLevelTest\bin\Modelo.pdb
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\SCHLevelTest\obj\Debug\SCHLevelTest.csprojResolveAssemblyReference.cache
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\SCHLevelTest\obj\Debug\SCHLevelTest.dll
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\SCHLevelTest\obj\Debug\SCHLevelTest.pdb
