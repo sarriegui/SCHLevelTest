@@ -1,0 +1,9 @@
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\Controladores\bin\Debug\Controladores.dll
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\Controladores\bin\Debug\Controladores.pdb
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\Controladores\bin\Debug\Entidades.dll
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\Controladores\bin\Debug\Modelo.dll
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\Controladores\bin\Debug\Entidades.pdb
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\Controladores\bin\Debug\Modelo.pdb
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\Controladores\obj\Debug\Controladores.csprojResolveAssemblyReference.cache
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\Controladores\obj\Debug\Controladores.dll
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\Controladores\obj\Debug\Controladores.pdb
