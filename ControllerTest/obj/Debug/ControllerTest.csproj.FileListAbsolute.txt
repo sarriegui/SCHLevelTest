@@ -1,0 +1,11 @@
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\ControllerTest\obj\Debug\ControllerTest.csprojResolveAssemblyReference.cache
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\ControllerTest\bin\Debug\ControllerTest.dll
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\ControllerTest\bin\Debug\ControllerTest.pdb
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\ControllerTest\obj\Debug\ControllerTest.dll
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\ControllerTest\obj\Debug\ControllerTest.pdb
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\ControllerTest\bin\Debug\Controladores.dll
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\ControllerTest\bin\Debug\Entidades.dll
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\ControllerTest\bin\Debug\Modelo.dll
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\ControllerTest\bin\Debug\Controladores.pdb
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\ControllerTest\bin\Debug\Entidades.pdb
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\ControllerTest\bin\Debug\Modelo.pdb

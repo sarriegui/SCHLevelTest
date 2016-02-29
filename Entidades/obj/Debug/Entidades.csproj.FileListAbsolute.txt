@@ -1,0 +1,5 @@
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\Entidades\bin\Debug\Entidades.dll
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\Entidades\bin\Debug\Entidades.pdb
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\Entidades\obj\Debug\Entidades.dll
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\Entidades\obj\Debug\Entidades.pdb
+C:\Users\eduardo.martin\Desktop\meu\SCHLevelTest\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
